@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/auxilio.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/cliente.c
+principal.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/principal.h
+cliente.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/cliente.h
+menu_admin.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/menu_admin.h
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+string.h
+-
+structs.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/structs.h
+auxilio.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/auxilio.h
+ficheiros.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/ficheiros.h
+windows.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/windows.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/cliente.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/ficheiros.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/menu_admin.c
+menu_admin.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/menu_admin.h
+stdlib.h
+-
+ctype.h
+-
+time.h
+-
+stdio.h
+-
+string.h
+-
+structs.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/structs.h
+auxilio.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/auxilio.h
+locale.h
+-
+principal.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/principal.h
+ficheiros.h
+C:/Users/Diogo Cardoso/Desktop/LP_redone/ficheiros.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/menu_admin.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/principal.h
+
+C:/Users/Diogo Cardoso/Desktop/LP_redone/structs.h
+
