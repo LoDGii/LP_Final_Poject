@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LP_redone.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\LP_redone.dir/objects.a @CMakeFiles\LP_redone.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\LP_redone.dir/objects.a -Wl,--no-whole-archive -o LP_redone.exe -Wl,--out-implib,libLP_redone.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LP_redone.dir\linklibs.rsp
